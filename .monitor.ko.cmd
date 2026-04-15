@@ -1,0 +1,1 @@
+savedcmd_/home/vboxuser/OS/boilerplate/monitor.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/vboxuser/OS/boilerplate/monitor.ko /home/vboxuser/OS/boilerplate/monitor.o /home/vboxuser/OS/boilerplate/monitor.mod.o

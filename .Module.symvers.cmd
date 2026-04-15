@@ -1,0 +1,1 @@
+savedcmd_/home/vboxuser/OS/boilerplate/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/vboxuser/OS/boilerplate/Module.symvers -T /home/vboxuser/OS/boilerplate/modules.order -i Module.symvers -e 
